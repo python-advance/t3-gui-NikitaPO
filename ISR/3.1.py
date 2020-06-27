@@ -22,7 +22,7 @@ while 1:
     fieldValues = multenterbox(errmsg, title, fieldNames, fieldValues)
 
 arr = []
-
+# Выполнил Попов Н
 for el in fieldValues:
     arr.append(float(el))
 
